@@ -147,7 +147,7 @@
                                                 <color key="backgroundColor" red="0.75436299110000005" green="0.5578451096" blue="0.29536082250000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                             </view>
                                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5ce-MN-3pj">
-                                                <rect key="frame" x="114" y="1653" width="192" height="79"/>
+                                                <rect key="frame" x="114" y="1655" width="192" height="79"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <color key="backgroundColor" red="0.41819432379999999" green="0.2635243833" blue="0.21567323799999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                 <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="42"/>
