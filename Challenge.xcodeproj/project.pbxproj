@@ -64,12 +64,13 @@
 		6770812D268E0137002831E9 /* Screen Shot 2021-07-01 at 8.56.38 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 6770812A268E0133002831E9 /* Screen Shot 2021-07-01 at 8.56.38 AM.png */; };
 		6770812E268E0137002831E9 /* Screen Shot 2021-07-01 at 8.56.22 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 6770812B268E0133002831E9 /* Screen Shot 2021-07-01 at 8.56.22 AM.png */; };
 		67708130268E0250002831E9 /* Screen Shot 2021-07-01 at 9.01.41 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 6770812F268E0250002831E9 /* Screen Shot 2021-07-01 at 9.01.41 AM.png */; };
-		67708169268E404C002831E9 /* ViewControllerQuiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67708163268E404A002831E9 /* ViewControllerQuiz.swift */; };
 		6770816A268E404C002831E9 /* ViewControllerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67708164268E404B002831E9 /* ViewControllerView.swift */; };
 		6770816B268E404C002831E9 /* ViewControllerHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67708165268E404B002831E9 /* ViewControllerHome.swift */; };
 		6770816C268E404C002831E9 /* ViewControllerExplore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67708166268E404B002831E9 /* ViewControllerExplore.swift */; };
-		6770816D268E404C002831E9 /* ViewControllerQuiz1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67708167268E404B002831E9 /* ViewControllerQuiz1.swift */; };
-		6770816E268E404C002831E9 /* ViewControllerQuiz2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67708168268E404B002831E9 /* ViewControllerQuiz2.swift */; };
+		67708170268E4408002831E9 /* ViewControllerLife.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6770816F268E4408002831E9 /* ViewControllerLife.swift */; };
+		67708176268E683F002831E9 /* ViewCntrollerQuizzes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67708173268E683E002831E9 /* ViewCntrollerQuizzes.swift */; };
+		67708177268E683F002831E9 /* VIewControllerQuiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67708174268E683E002831E9 /* VIewControllerQuiz.swift */; };
+		67708178268E683F002831E9 /* ViewControllerQuizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67708175268E683F002831E9 /* ViewControllerQuizza.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -132,12 +133,13 @@
 		6770812A268E0133002831E9 /* Screen Shot 2021-07-01 at 8.56.38 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2021-07-01 at 8.56.38 AM.png"; path = "../../Screen Shot 2021-07-01 at 8.56.38 AM.png"; sourceTree = "<group>"; };
 		6770812B268E0133002831E9 /* Screen Shot 2021-07-01 at 8.56.22 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2021-07-01 at 8.56.22 AM.png"; path = "../../Screen Shot 2021-07-01 at 8.56.22 AM.png"; sourceTree = "<group>"; };
 		6770812F268E0250002831E9 /* Screen Shot 2021-07-01 at 9.01.41 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2021-07-01 at 9.01.41 AM.png"; path = "../../Screen Shot 2021-07-01 at 9.01.41 AM.png"; sourceTree = "<group>"; };
-		67708163268E404A002831E9 /* ViewControllerQuiz.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerQuiz.swift; sourceTree = "<group>"; };
 		67708164268E404B002831E9 /* ViewControllerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerView.swift; sourceTree = "<group>"; };
 		67708165268E404B002831E9 /* ViewControllerHome.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerHome.swift; sourceTree = "<group>"; };
 		67708166268E404B002831E9 /* ViewControllerExplore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerExplore.swift; sourceTree = "<group>"; };
-		67708167268E404B002831E9 /* ViewControllerQuiz1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerQuiz1.swift; sourceTree = "<group>"; };
-		67708168268E404B002831E9 /* ViewControllerQuiz2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerQuiz2.swift; sourceTree = "<group>"; };
+		6770816F268E4408002831E9 /* ViewControllerLife.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerLife.swift; sourceTree = "<group>"; };
+		67708173268E683E002831E9 /* ViewCntrollerQuizzes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewCntrollerQuizzes.swift; sourceTree = "<group>"; };
+		67708174268E683E002831E9 /* VIewControllerQuiz.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VIewControllerQuiz.swift; sourceTree = "<group>"; };
+		67708175268E683F002831E9 /* ViewControllerQuizza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerQuizza.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -175,10 +177,11 @@
 				6770808B268D4560002831E9 /* ViewController.swift */,
 				6770808D268D4560002831E9 /* Main.storyboard */,
 				67708166268E404B002831E9 /* ViewControllerExplore.swift */,
+				6770816F268E4408002831E9 /* ViewControllerLife.swift */,
 				67708165268E404B002831E9 /* ViewControllerHome.swift */,
-				67708163268E404A002831E9 /* ViewControllerQuiz.swift */,
-				67708167268E404B002831E9 /* ViewControllerQuiz1.swift */,
-				67708168268E404B002831E9 /* ViewControllerQuiz2.swift */,
+				67708173268E683E002831E9 /* ViewCntrollerQuizzes.swift */,
+				67708174268E683E002831E9 /* VIewControllerQuiz.swift */,
+				67708175268E683F002831E9 /* ViewControllerQuizza.swift */,
 				67708164268E404B002831E9 /* ViewControllerView.swift */,
 				67708093268D4564002831E9 /* Assets.xcassets */,
 				6770812F268E0250002831E9 /* Screen Shot 2021-07-01 at 9.01.41 AM.png */,
@@ -359,14 +362,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				6770808C268D4560002831E9 /* ViewController.swift in Sources */,
-				6770816D268E404C002831E9 /* ViewControllerQuiz1.swift in Sources */,
 				6770816A268E404C002831E9 /* ViewControllerView.swift in Sources */,
+				67708176268E683F002831E9 /* ViewCntrollerQuizzes.swift in Sources */,
+				67708177268E683F002831E9 /* VIewControllerQuiz.swift in Sources */,
 				6770816B268E404C002831E9 /* ViewControllerHome.swift in Sources */,
+				67708178268E683F002831E9 /* ViewControllerQuizza.swift in Sources */,
 				67708092268D4560002831E9 /* Challenge.xcdatamodeld in Sources */,
 				6770816C268E404C002831E9 /* ViewControllerExplore.swift in Sources */,
 				67708088268D4560002831E9 /* AppDelegate.swift in Sources */,
-				67708169268E404C002831E9 /* ViewControllerQuiz.swift in Sources */,
-				6770816E268E404C002831E9 /* ViewControllerQuiz2.swift in Sources */,
+				67708170268E4408002831E9 /* ViewControllerLife.swift in Sources */,
 				6770808A268D4560002831E9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
