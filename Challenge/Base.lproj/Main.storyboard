@@ -703,7 +703,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="LEARN" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AfC-o5-twA">
                                 <rect key="frame" x="22" y="75" width="377" height="124"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="textColor" red="0.3945202827" green="0.20882591610000001" blue="0.14507821200000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <fontDescription key="fontDescription" name="Optima-Bold" family="Optima" pointSize="38"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
